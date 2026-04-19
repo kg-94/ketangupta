@@ -20,7 +20,7 @@ Visit: [ketangupta.github.io](https://ketangupta.github.io)
 
 ## 🏢 Professional Summary
 
-**Senior Quality Engineer** at Q2 Software with expertise in:
+**Senior Software Developer Engineer in Test (Senior SDET)** at Q2 Software with expertise in:
 - Test Automation (Python, Selenium)
 - SDET (Software Development Engineer in Test)
 - Performance Testing (k6, JMeter)
