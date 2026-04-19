@@ -658,6 +658,36 @@ footer {
     line-height: 1.6;
 }
 
+/* Awards & Certifications */
+.awards-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.award-item {
+    padding: 24px;
+    background: linear-gradient(135deg, rgba(59, 130, 246, 0.08) 0%, rgba(139, 92, 246, 0.08) 100%);
+    border-radius: 12px;
+    border-left: 4px solid var(--accent);
+    transition: all 0.3s ease;
+    border: 1px solid var(--border);
+}
+
+.award-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(59, 130, 246, 0.1);
+    border-color: var(--accent);
+}
+
+.award-item h4 {
+    color: var(--text-dark);
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1.6;
+    margin: 0;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .about-grid {

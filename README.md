@@ -20,12 +20,13 @@ Visit: [kg-94.github.io/ketangupta](https://kg-94.github.io/ketangupta/)
 
 ## 🏢 Professional Summary
 
-**Senior Software Developer Engineer in Test (Senior SDET)** at Q2 Software with expertise in:
-- Test Automation (Python, Selenium)
-- SDET (Software Development Engineer in Test)
+**Senior SDET / QA Lead** at Q2 with 8.5+ years of experience in:
+- Automation Testing (Selenium WebDriver, Python, Requests)
+- API & UI Testing
+- CI/CD & DevOps (GitLab CI, Jenkins, Docker)
 - Performance Testing (k6, JMeter)
-- Quality Enablement and Team Leadership
-- API & UI Automation
+- Cloud & AWS Infrastructure
+- Test Management & Process Improvements
 
 ## 🛠 Tech Stack
 
