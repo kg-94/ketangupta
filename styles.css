@@ -254,6 +254,14 @@ body {
     width: 40px;
     height: 40px;
     display: block;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 8px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+.contact-item:hover .contact-icon {
+    background-color: rgba(255, 255, 255, 0.2);
 }
 
 /* Footer */
@@ -307,6 +315,14 @@ footer {
     width: 24px;
     height: 24px;
     display: block;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 6px;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+.cv-contact-link:hover .cv-contact-icon {
+    background-color: rgba(255, 255, 255, 0.3);
 }
 
 .cv-contact-location {
