@@ -1,10 +1,10 @@
 # Ketan Gupta - CV Portfolio
 
-A creative, modern portfolio website showcasing my professional experience, skills, and projects as a Senior Quality Engineer.
+A creative, modern portfolio website showcasing my professional experience, skills, and projects as a Senior Software Developer Engineer in Test (Senior SDET).
 
 ## 🌐 Live Site
 
-Visit: [ketangupta.github.io](https://ketangupta.github.io)
+Visit: [kg-94.github.io/ketangupta](https://kg-94.github.io/ketangupta/)
 
 ## 📋 Features
 
@@ -70,7 +70,7 @@ git commit -m "Update CV portfolio"
 git push origin master
 ```
 
-The site will be live at `https://ketangupta.github.io` (or your custom domain if configured).
+The site will be live at `https://kg-94.github.io/ketangupta/`
 
 ## ✏️ Customization
 
@@ -93,7 +93,10 @@ Edit CSS variables in `styles.css`:
 ## 📧 Contact
 
 - Email: kguptabpl@gmail.com
+- GitHub: [github.com/kg-94](https://github.com/kg-94)
 - LinkedIn: [linkedin.com/in/ketangupta94](https://linkedin.com/in/ketangupta94)
+- Instagram: [@k10.gupta](https://instagram.com/k10.gupta)
+- YouTube: [@guptaketan](https://www.youtube.com/@guptaketan)
 - Location: Bengaluru, India
 
 ## 📄 License

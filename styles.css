@@ -250,6 +250,12 @@ body {
     font-size: 32px;
 }
 
+.contact-icon {
+    width: 40px;
+    height: 40px;
+    display: block;
+}
+
 /* Footer */
 footer {
     background: var(--text-dark);
@@ -281,6 +287,32 @@ footer {
     gap: 24px;
     flex-wrap: wrap;
     font-size: 14px;
+    align-items: center;
+}
+
+.cv-contact-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    color: white;
+    transition: opacity 0.3s ease;
+}
+
+.cv-contact-link:hover {
+    opacity: 0.8;
+}
+
+.cv-contact-icon {
+    width: 24px;
+    height: 24px;
+    display: block;
+}
+
+.cv-contact-location {
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
 .cv-container {
